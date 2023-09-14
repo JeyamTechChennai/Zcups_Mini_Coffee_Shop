@@ -1,0 +1,63 @@
+C:\Users\zaina\source\repos\ZCups\ZCups\bin\Debug\ZCups.exe.config
+C:\Users\zaina\source\repos\ZCups\ZCups\bin\Debug\ZCups.exe
+C:\Users\zaina\source\repos\ZCups\ZCups\bin\Debug\ZCups.pdb
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.csprojResolveAssemblyReference.cache
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.Form1.resources
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.Properties.Resources.resources
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.csproj.GenerateResource.Cache
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.csproj.CoreCompileInputs.cache
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.exe
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.pdb
+C:\Users\zaina\source\repos\ZCups\ZCups\obj\Debug\ZCups.DrinkSelection.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\bin\Debug\ZCups.exe.config
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\bin\Debug\ZCups.exe
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\bin\Debug\ZCups.pdb
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.DrinkSelection.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.Properties.Resources.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.csproj.GenerateResource.Cache
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.exe
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.pdb
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.Globals.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.AdminEntry.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.AdminPage.resources
+C:\Users\zaina\Documents\GitHub\Z-cups\ZCups\ZCups\obj\Debug\ZCups.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.exe.config
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.exe
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.pdb
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.AdminEntry.resources
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.AdminPage.resources
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.DrinkSelection.resources
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.Globals.resources
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.exe
+F:\Sem.4\C# Projects\Trials\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.pdb
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.exe.config
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.exe
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\bin\Debug\ZCups.pdb
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.AdminEntry.resources
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.AdminPage.resources
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.DrinkSelection.resources
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.Globals.resources
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.Properties.Resources.resources
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.exe
+F:\Sem.4\C# Projects\Z-cups-master\ZCups\ZCups\obj\Debug\ZCups.pdb
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\bin\Debug\ZCups.exe.config
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\bin\Debug\ZCups.exe
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\bin\Debug\ZCups.pdb
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.AdminEntry.resources
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.AdminPage.resources
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.DrinkSelection.resources
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.Globals.resources
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.Properties.Resources.resources
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.exe
+C:\Users\DELL\Downloads\COFFEE_SHOP_SYSTEM_IN_C_WITH_SOURCE_CODE\Coffee Shop System C# zcups\ZCups\ZCups\obj\Debug\ZCups.pdb
